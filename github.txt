@@ -1,0 +1,7 @@
+Para criar um repositorio novo o proprio github da as instruções
+
+
+
+git add *nome do arquivo com a extensão* Exemplo: git add index.html
+git commit -m "Frase do commit que foi alterado"
+git push *Para enviar alterações no repositorio"
