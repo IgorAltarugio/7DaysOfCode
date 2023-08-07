@@ -5,3 +5,20 @@ Para criar um repositorio novo o proprio github da as instruções
 git add *nome do arquivo com a extensão* Exemplo: git add index.html
 git commit -m "Frase do commit que foi alterado"
 git push *Para enviar alterações no repositorio"
+
+para realizar um reverse
+
+pegar o git log no git hub que fica nos commits
+
+apos pegar o log seguir os seguintes comandos
+
+git revert e o numero do log
+
+git revert aee7abb9a911ce1464af9893b0ef2ff1e5828762
+
+depois ir ao vscode e arrumar o erro
+
+e depois utilizar o comando
+
+git push origin main
+
